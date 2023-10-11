@@ -39,11 +39,11 @@ This project's primary objectives include transforming online retail data, stori
 
 ##### Soda setup
 
-- [Using soda](https://github.com/ddooxhuy09/Transform_retail_data_and_visualization/include/soda)
+- [Using soda](https://github.com/ddooxhuy09/Transform_retail_data_and_visualization/tree/master/include/soda).
 
 ##### dbt setup
 
-- [Using dbt](https://github.com/ddooxhuy09/Transform_retail_data_and_visualization/include/dbt)
+- [Using dbt](https://github.com/ddooxhuy09/Transform_retail_data_and_visualization/tree/master/include/dbt)
 
 ##### Docker setup
 
